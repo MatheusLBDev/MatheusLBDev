@@ -7,7 +7,7 @@
 - 🎮 Gamer | 📺 Series Enthusiast 
 - 💻 Java Backend Developer| Software Engineer
 - 📍 São Paulo, Brazil
-- 📫 Contact me: [mathlb.dev@hotmail.com](mathlb.dev@hotmail.com)
+- 📫 Contato: [mathlb.dev@hotmail.com](mathlb.dev@hotmail.com)
 
 </div>
 
