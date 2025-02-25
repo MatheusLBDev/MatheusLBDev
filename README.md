@@ -1,16 +1,37 @@
-## Hi there 👋
+# Matheus Lima Barreto
 
-<!--
-**MatheusLBDev/MatheusLBDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left" style="background-color:#141321; padding: 15px; border-radius: 10px;">
 
-Here are some ideas to get you started:
+🌟 Bem-vindo ao meu perfil do GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Gamer | 📺 Series Enthusiast 
+- 💻 Java Backend Developer| Software Engineer
+- 📍 São Paulo, Brazil
+- 📫 Contact me: [mathlb.dev@hotmail.com](mathlb.dev@hotmail.com)
+
+</div>
+
+---
+
+## 🌟 Sobre mim
+
+<div style="background-color:#141321; padding: 15px; border-radius: 10px;">
+
+Sou desenvolvedor Java e C# com experiências em projetos acadêmicos e pessoais, focando em soluções escaláveis e eficientes. Tenho conhecimento em bancos de dados como PostgreSQL, SQLServer e render, além de conhecimento em Swagger para documentação de APIs. Tenho experiência no desenvolvimento e consumo de APIs, assegurando a interoperabilidade entre sistemas, e no controle de versão utilizando Git e GitHub para um gerenciamento de código-fonte eficiente.
+
+### 🛠️ Skills
+- **Backend**: Java, Kotlin e C#
+- **Frontend**: HTML5 e CSS3
+- **Frameworks**: Spring Boot, Hibernate, Entity Framework e mockito 
+- **Banco de dados**: PostgreSQL, SQLServer e render
+- **Tools**: Docker, Docker Compose, Git, GitHub e Maven
+
+</div>
+
+---
+
+<div align="left" style="background-color:#141321; padding: 15px; border-radius: 10px;">
+
+Obrigado por visitar meu perfil! 😊
+
+</div>
