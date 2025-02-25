@@ -24,7 +24,7 @@ Sou desenvolvedor Java e C# com experiências em projetos acadêmicos e pessoais
 - **Frontend**: HTML5 e CSS3
 - **Frameworks**: Spring Boot, Hibernate, Entity Framework e mockito 
 - **Banco de dados**: PostgreSQL, SQLServer e render
-- **Tools**: Docker, Docker Compose, Git, GitHub e Maven
+- **Tools**: Docker, Docker Compose, Git, GitHub, Maven, Swagger e JWT
 
 </div>
 
