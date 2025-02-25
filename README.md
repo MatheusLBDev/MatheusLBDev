@@ -4,8 +4,8 @@
 
 🌟 Bem-vindo ao meu perfil do GitHub! 🚀
 
-- 🎮 Gamer | 📺 Series Enthusiast 
-- 💻 Java Backend Developer| Software Engineer
+- 🎮 Gamer | 📺 Entusiasta por séries e filmes
+- 💻 Java Backend Developer | Software Engineer
 - 📍 São Paulo, Brazil
 - 📫 Contato: [mathlb.dev@hotmail.com](mathlb.dev@hotmail.com)
 
