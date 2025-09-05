@@ -5,7 +5,7 @@
 🌟 Bem-vindo ao meu perfil do GitHub! 🚀
 
 - 🎮 Gamer | 📺 Entusiasta por séries e filmes
-- 💻 Java Backend Developer | Software Engineer
+- 💻 Estudante de Ciência de Dados & graduado em Análise e desenvolvimento de sistemas
 - 📍 São Paulo, Brazil
 - 📫 Contato: [mathlb.dev@hotmail.com](mathlb.dev@hotmail.com)
 
@@ -17,14 +17,22 @@
 
 <div style="background-color:#141321; padding: 15px; border-radius: 10px;">
 
-Sou desenvolvedor Java e C# com experiências em projetos acadêmicos e pessoais, focando em soluções escaláveis e eficientes. Tenho conhecimento em bancos de dados como PostgreSQL, SQLServer e render, além de conhecimento em Swagger para documentação de APIs. Tenho experiência no desenvolvimento e consumo de APIs, assegurando a interoperabilidade entre sistemas, e no controle de versão utilizando Git e GitHub para um gerenciamento de código-fonte eficiente.
+Sou estudante de Ciência de Dados e Inteligência Artificial (UNISO) e formado em Análise e Desenvolvimento de Sistemas (UNIP).
+Tenho conhecimento em desenvolvimento backend com Java e Spring Boot, criação de APIs RESTful e integração com PostgreSQL e SQL Server.
+Além do backend, também possuo experiência acadêmica e em projetos pessoais com Python para análise de dados, utilizando bibliotecas como Pandas, NumPy, Matplotlib e Seaborn para manipulação, visualização e exploração de dados.
+Busco minha primeira oportunidade profissional como estagiário em desenvolvimento de software ou dados, para aplicar meus conhecimentos e evoluir na área de tecnologia.
 
 ### 🛠️ Skills
-- **Backend**: Java, Kotlin e C#
+- **Backend**: Java, Spring Boot, JPA/Hibernate
 - **Frontend**: HTML5 e CSS3
-- **Frameworks**: Spring Boot, Hibernate, Entity Framework e mockito 
+- **Frameworks**: Spring Boot, Hibernate, Entity Framework e mockito
+- **Data Science:** Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 - **Banco de dados**: PostgreSQL, SQLServer e render
 - **Tools**: Docker, Docker Compose, Git, GitHub, Maven, Swagger e JWT
+
+### 🎓 Formação
+- Bacharelado em **Ciência de Dados e Inteligência Artificial** – UNISO (em andamento, início 2025)
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas** – UNIP (conclusão: dez/2024)
 
 </div>
 
